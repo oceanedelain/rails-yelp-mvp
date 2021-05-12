@@ -1,0 +1,28 @@
+// Place all the styles related to the restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.far {
+  // text-decoration: none;
+}
+
+a {
+    color: #2c5f9c !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+  color: #f7610a !important;
+  text-decoration: none !important;
+}
+
+.create {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.list-group-item {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 3px rgb(167, 167, 167);
+  margin-top: 4px;
+}
